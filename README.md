@@ -1,6 +1,6 @@
 # Trabajo Final
 ## Segundo Bimestre
-
+INTEGRANTES: LUIS SANCHEZ, JOEL DOMINGUEZ, ESTER FUSTERO
 ***
 
 ### Problemática a resolver
